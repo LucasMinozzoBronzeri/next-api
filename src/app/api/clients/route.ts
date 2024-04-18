@@ -1,4 +1,4 @@
-import { Client } from '@/app/api/clients/interface'
+import { Client } from '../../interfaces'
 
 const clients: Client[] = [
     {
